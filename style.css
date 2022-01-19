@@ -1,0 +1,25 @@
+.A{
+  background-color: red
+}
+.C{
+  background-color: green
+}
+.T{
+  background-color: yellow
+}
+.G{
+  background-color: blue
+}
+.U{
+  background-color: pink
+}
+
+.cell{
+  width:20px;
+  height:20px;
+  text-align: center
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
